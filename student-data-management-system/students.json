@@ -1,0 +1,23 @@
+[
+    {
+        "id": "101",
+        "name": "sai",
+        "age": 12,
+        "course": "bsc computer science",
+        "grade": "85"
+    },
+    {
+        "id": "102",
+        "name": "masalii",
+        "age": 19,
+        "course": "bcom",
+        "grade": "09"
+    },
+    {
+        "id": "202",
+        "name": "sukhi",
+        "age": 20,
+        "course": "bsc computer science",
+        "grade": "78"
+    }
+]
